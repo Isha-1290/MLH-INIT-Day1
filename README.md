@@ -1,2 +1,2 @@
-# MLH-INIT-tictactoe-game
-A simple two player game!!
+# MLH-INIT-Day 1
+Day-1 Challenges 
